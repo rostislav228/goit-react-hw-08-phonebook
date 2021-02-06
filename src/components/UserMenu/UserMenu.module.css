@@ -1,0 +1,17 @@
+.div {
+   margin-top: 20px;
+}
+
+.mail{
+    color: #f0f0f0;
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3)
+}
+
+.button {
+    margin-left: 5px;
+    border: 0px;
+    border-radius: 4px;
+    background-color:#F3A505;
+    color: #f0f0f0;
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3)
+}
